@@ -1,3 +1,3 @@
 # restaurant
-A restaurant management UI system
+A restaurant management UI system\n
 A sample
